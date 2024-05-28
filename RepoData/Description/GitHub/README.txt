@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🦺️🇹📖️ The official documentation repository for the SafeT, a special plugin for terminals with 3 layers of input safety, designed to make the Linux terminal safer and more open to public users on your device. 
